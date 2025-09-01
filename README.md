@@ -1,1 +1,1 @@
-MyVault is a personal content manager.
+MyVault is a Personal Content management website.
