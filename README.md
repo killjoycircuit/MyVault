@@ -1,1 +1,1 @@
-MyVault is a Personal Content management tool.
+MyVault is a personal content management system designed to securely store, organize, and manage your personal files, notes, and digital assets in one place. It provides a simple yet powerful interface for content organization with security at its core.
